@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#115e59;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f766e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="600" cy="200" r="60" fill="rgba(255,255,255,0.15)"/>
+  <!-- Maison -->
+  <path d="M600 155l-40 35h12v30h18v-18h20v18h18v-30h12l-40-35z" fill="white" opacity="0.9"/>
+  <text x="600" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="800" fill="white" text-anchor="middle">HOTELS-PAR-VILLE.FR</text>
+  <text x="600" y="400" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="rgba(255,255,255,0.85)" text-anchor="middle">Hôtels par Ville en France</text>
+  <rect x="400" y="440" width="400" height="50" rx="25" fill="white"/>
+  <text x="600" y="472" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#115e59" text-anchor="middle">Trouvez votre h&#233;bergement id&#233;al</text>
+  <text x="600" y="570" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="rgba(255,255,255,0.6)" text-anchor="middle">Des milliers d'h&#233;bergements de charme partout en France</text>
+</svg>

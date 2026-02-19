@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    container_name: hotels-par-ville
+    ports:
+      - "8004:80"
+    volumes:
+      - .:/var/www/html:rw
+    restart: unless-stopped
