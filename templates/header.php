@@ -60,7 +60,7 @@
                             </svg>
                         </div>
                         <span class="font-semibold text-base tracking-tight">
-                            <span class="text-gray-900">ANNUAIRE</span><span class="text-primary-600">-CHAMBRES-HOTES.FR</span>
+                            <span class="text-gray-900">HOTELS</span><span class="text-primary-600">-PAR-VILLE.FR</span>
                         </span>
                     </a>
                 </div>
